@@ -1,5 +1,5 @@
 # pycom-firmwares
-Pycom firmware with double float precision (DP/FP64) on version **1.20.2.r4**.
+Pycom firmware with double float precision (DP/FP64) on version **1.20.2.r4** and **1.20.2.r5**.
 
 For all Pycom boards :
 - FIPY
